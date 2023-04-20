@@ -14,6 +14,7 @@ public class MainController {
 
   @GetMapping()
   public String greeting() {
+//    throw new RuntimeException("test logging level");
     return "Hello world! Custom value: " + customValue1;
   }
 }
