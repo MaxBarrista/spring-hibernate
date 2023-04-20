@@ -1,7 +1,7 @@
-package com.barrista.udemy.spring.controller;
+package com.barrista.udemy.legacy.controller;
 
-import com.barrista.udemy.spring.model.Car;
-import com.barrista.udemy.spring.service.CarService;
+import com.barrista.udemy.legacy.model.Car;
+import com.barrista.udemy.legacy.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.barrista.udemy.spring.model;
+package com.barrista.udemy.legacy.model;
 
 public class Car {
   private double tank;

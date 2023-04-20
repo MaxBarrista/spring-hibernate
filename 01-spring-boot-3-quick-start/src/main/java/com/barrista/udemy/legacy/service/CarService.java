@@ -1,6 +1,6 @@
-package com.barrista.udemy.spring.service;
+package com.barrista.udemy.legacy.service;
 
-import com.barrista.udemy.spring.model.Car;
+import com.barrista.udemy.legacy.model.Car;
 import org.springframework.stereotype.Service;
 
 @Service
