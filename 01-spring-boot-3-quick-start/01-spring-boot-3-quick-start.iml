@@ -48,8 +48,6 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:6.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.6" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.4" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.6" level="project" />
@@ -88,5 +86,13 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-devtools:3.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.4" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.4" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-core:1.10.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.hdrhistogram:HdrHistogram:2.1.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.latencyutils:LatencyUtils:2.0.3" level="project" />
   </component>
 </module>
