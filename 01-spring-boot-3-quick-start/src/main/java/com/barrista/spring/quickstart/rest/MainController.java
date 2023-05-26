@@ -1,6 +1,6 @@
-package com.barrista.udemy.spring.rest;
+package com.barrista.spring.quickstart.rest;
 
-import com.barrista.udemy.spring.service.DummyService;
+import com.barrista.spring.quickstart.service.DummyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;

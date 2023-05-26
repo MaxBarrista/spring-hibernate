@@ -1,7 +1,7 @@
-package com.barrista.udemy.legacy.controller;
+package com.barrista.spring.quickstart.legacy.controller;
 
-import com.barrista.udemy.legacy.model.Car;
-import com.barrista.udemy.legacy.service.CarService;
+import com.barrista.spring.quickstart.legacy.model.Car;
+import com.barrista.spring.quickstart.legacy.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

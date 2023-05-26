@@ -1,4 +1,4 @@
-package com.barrista.udemy.spring.service;
+package com.barrista.spring.quickstart.service;
 
 import org.springframework.stereotype.Service;
 

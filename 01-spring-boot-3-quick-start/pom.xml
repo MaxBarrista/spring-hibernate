@@ -9,11 +9,11 @@
     <version>3.0.4</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.barrista.udemy</groupId>
+  <groupId>com.barrista.spring</groupId>
   <artifactId>quick-start</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>spring-hibernate</name>
-  <description>Project for practicing</description>
+  <name>quick-start</name>
+  <description>Project for learning Spring</description>
   <properties>
     <java.version>17</java.version>
     <maven.compiler.source>17</maven.compiler.source>
